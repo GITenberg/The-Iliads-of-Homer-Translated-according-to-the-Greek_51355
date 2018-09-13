@@ -1,11 +1,14 @@
 _repo: The-Iliads-of-Homer-Translated-according-to-the-Greek_51355
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Chapman, George
     deathdate: 1634
     gutenberg_agent_id: '9210'
     url: http://www.gutenberg.org/2009/agents/9210
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Homer
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/705
     wikipedia: http://en.wikipedia.org/wiki/Homer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51355#The-Iliads-of-Homer-Translated-according-to-the-Greek
 gutenberg_issued: '2016-03-04'
 gutenberg_type: Text
 identifiers:
